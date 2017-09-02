@@ -17,3 +17,8 @@ def QuickSort(arr):
 
 stringToPrint = "%d %d %f %s %s" % (-10.6, 10.6, -22.7123123,"lol",'lolol')
 print(stringToPrint)
+
+arr = numpy.array([[1.2,3,5]])
+
+print(numpy.random.random((999,999)))
+
