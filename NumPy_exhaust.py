@@ -1,4 +1,5 @@
-import numpy
+import numpy #Core math library
+
 
 #print(numpy.abs(-3))
 
@@ -107,4 +108,7 @@ y = x + v  # Add v to each row of x using broadcasting
 print(y)  # Prints "[[ 2  2  4]
           #          [ 5  5  7]
           #          [ 8  8 10]
-          #          [11 11 13]]" THE POWER OF BROADCASTING!!
+          #          [11 11 13]]"
+#
+#  THE POWER OF BROADCASTING!!
+
