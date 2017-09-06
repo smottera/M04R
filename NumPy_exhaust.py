@@ -11,6 +11,7 @@ def QuickSort(arr):
     right = [x for x in arr if x>pivot]
     return QuickSort(left) + middle + QuickSort(right)
 
+
 #print(QuickSort([1,2,3,3,1,8,8,5,3,2]))
 
 #print(type(arr))
