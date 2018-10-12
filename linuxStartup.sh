@@ -1,11 +1,16 @@
 sudo apt-get update
 sudo apt-get upgrade
 
+#ACCESSORIES 
 sudo apt-get install vim
 sudo apt-get install htop
 sudo snap install vlc
+sudo apt-get install ubuntu-restricted-extras
 
+#installa Ubuntu After Install
 
+#JAVA
+#you might have to add/modiy $JAVA_HOME
 sudo apt install default-jdk
 sudo apt-get update
 sudo apt-get upgrade
