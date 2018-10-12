@@ -3,6 +3,7 @@ sudo apt-get upgrade
 
 sudo apt-get install vim
 sudo apt-get install htop
+sudo snap install vlc
 
 
 sudo apt install default-jdk
